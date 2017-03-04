@@ -1,0 +1,23 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "Electron App",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NverAbgaryan/ElectronApp.git"
+  },
+  "author": "Nver Abgaryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NverAbgaryan/ElectronApp/issues"
+  },
+  "homepage": "https://github.com/NverAbgaryan/ElectronApp#readme"
+}
